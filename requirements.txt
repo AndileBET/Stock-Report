@@ -1,0 +1,13 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20,<1
+pandas>=2.2,<4
+openpyxl>=3.1,<4
+odfpy>=1.4,<2
+xlrd>=2.0,<3
+pytest>=8,<10
+python-docx>=1.1,<2
+reportlab>=4.2,<5
+reportlab
+python-docx
+httpx2
