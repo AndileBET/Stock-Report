@@ -1,0 +1,1 @@
+export function LoadingState() { return <div className="loading-state"><div className="loader-orb" /><strong>Preparing stock intelligence</strong><span>Connecting to the local reporting engine…</span></div>; }
